@@ -24,4 +24,4 @@ Open `index.html` in your browser.
 
 ## Live site
 
-Hosted with GitHub Pages: https://YOUR-USERNAME.github.io/boba-drops/
+Hosted with GitHub Pages: https://github.com/elargantiny16/boba-drops
