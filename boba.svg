@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 280" role="img" aria-labelledby="t d">
+  <title id="t">Illustration of a boba milk tea</title>
+  <desc id="d">A clear cup of milk tea with tapioca pearls at the bottom, a wide pink straw and a dome lid.</desc>
+  <!-- straw -->
+  <rect x="104" y="6" width="16" height="150" rx="6" fill="#ff6fa5" transform="rotate(12 112 80)"/>
+  <!-- lid -->
+  <path d="M42 70 Q100 20 158 70 Z" fill="#fde7f0" stroke="#6b3a2e" stroke-width="4"/>
+  <rect x="34" y="68" width="132" height="14" rx="7" fill="#fbd0e2" stroke="#6b3a2e" stroke-width="4"/>
+  <!-- cup -->
+  <path d="M42 82 L158 82 L142 262 Q141 270 133 270 L67 270 Q59 270 58 262 Z" fill="#f3d9bd" stroke="#6b3a2e" stroke-width="4"/>
+  <!-- tea shading -->
+  <path d="M47 130 L153 130 L142 262 Q141 270 133 270 L67 270 Q59 270 58 262 Z" fill="#d9a877"/>
+  <!-- pearls -->
+  <g fill="#3b2218">
+    <circle cx="74" cy="252" r="9"/><circle cx="94" cy="256" r="9"/><circle cx="114" cy="254" r="9"/>
+    <circle cx="132" cy="252" r="8"/><circle cx="84" cy="236" r="9"/><circle cx="104" cy="238" r="9"/>
+    <circle cx="124" cy="236" r="8"/><circle cx="94" cy="220" r="8"/><circle cx="114" cy="221" r="8"/>
+  </g>
+  <!-- shine -->
+  <path d="M60 100 L66 220" stroke="#ffffff" stroke-width="5" stroke-linecap="round" opacity=".7"/>
+</svg>
